@@ -1,9 +1,9 @@
 {
-  "name" : "slev/ltree-extension-bundle",
+  "name" : "dionx/ltree-extension-bundle",
   "description" : "Symfony 2 bundle with additional functionality for postgresql ltee extension",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "type" : "symfony-bundle",
-  "homepage": "https://github.com/semin-lev/ltree-extension-bundle",
+  "homepage": "https://github.com/dionx/ltree-extension-bundle",
   "license" : "MIT",
   "keywords" : ["ltree", "postgresql"],
   "authors" : [{
